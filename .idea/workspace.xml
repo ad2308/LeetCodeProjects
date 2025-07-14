@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4b0939db-615c-4881-9433-b283792c2064" name="Changes" comment="Done up to P8" />
+    <list default="true" id="4b0939db-615c-4881-9433-b283792c2064" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -115,22 +121,9 @@
       <workItem from="1751398573185" duration="2250000" />
       <workItem from="1752357862993" duration="3836000" />
     </task>
-    <task id="LOCAL-00001" summary="Done up to P8">
-      <option name="closed" value="true" />
-      <created>1752458128031</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1752458128031</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Done up to P8" />
-    <option name="LAST_COMMIT_MESSAGE" value="Done up to P8" />
   </component>
 </project>
