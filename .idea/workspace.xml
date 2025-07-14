@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4b0939db-615c-4881-9433-b283792c2064" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/P5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P8.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,18 +26,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "ad2308"
-  }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/ad2308/LeetCodeProjects",
-    "accountId": "f1fed17a-12b8-416e-8f6c-c6ac55c83225"
-  }
-}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -49,8 +40,11 @@
     "Application.P22.executor": "Run",
     "Application.Solution.executor": "Debug",
     "Application.Solution3.executor": "Run",
-    "Application.Solution5.executor": "Run",
+    "Application.Solution6.executor": "Run",
+    "Application.Solution7.executor": "Run",
+    "Application.Solution8.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
@@ -58,17 +52,11 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.sourceCode.Java",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Solution5">
-    <configuration name="P22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P22" />
-      <module name="LeetCodeProjects" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Solution8">
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Solution" />
       <module name="LeetCodeProjects" />
@@ -83,8 +71,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution5" />
+    <configuration name="Solution6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution6" />
+      <module name="LeetCodeProjects" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution7" />
+      <module name="LeetCodeProjects" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution8" />
       <module name="LeetCodeProjects" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -92,18 +94,19 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution5" />
-        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.Solution8" />
+        <item itemvalue="Application.Solution7" />
+        <item itemvalue="Application.Solution6" />
         <item itemvalue="Application.Solution3" />
-        <item itemvalue="Application.P22" />
+        <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.21829.142" />
-        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-IU-242.21829.142" />
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
       </set>
     </attachedChunks>
   </component>
@@ -117,7 +120,6 @@
       <updated>1751398572140</updated>
       <workItem from="1751398573185" duration="2250000" />
       <workItem from="1752357862993" duration="3836000" />
-      <workItem from="1752404370705" duration="9367000" />
     </task>
     <servers />
   </component>
