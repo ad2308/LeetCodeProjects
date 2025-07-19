@@ -5,11 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4b0939db-615c-4881-9433-b283792c2064" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P18.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/P9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P9.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +34,9 @@
   &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="2zHqugIoKtmUPKWritzs1mZQqxq" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -39,10 +45,17 @@
   "keyToString": {
     "Application.P22.executor": "Run",
     "Application.Solution.executor": "Debug",
+    "Application.Solution12.executor": "Run",
+    "Application.Solution13.executor": "Run",
+    "Application.Solution15.executor": "Run",
+    "Application.Solution16.executor": "Run",
+    "Application.Solution17.executor": "Run",
+    "Application.Solution18.executor": "Run",
     "Application.Solution3.executor": "Run",
     "Application.Solution6.executor": "Run",
     "Application.Solution7.executor": "Run",
     "Application.Solution8.executor": "Run",
+    "Application.Solution9.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -56,37 +69,37 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Solution8">
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution" />
+  <component name="RunManager" selected="Application.Solution18">
+    <configuration name="Solution13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution13" />
       <module name="LeetCodeProjects" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution3" />
+    <configuration name="Solution15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution15" />
       <module name="LeetCodeProjects" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution6" />
+    <configuration name="Solution16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution16" />
       <module name="LeetCodeProjects" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution7" />
+    <configuration name="Solution17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution17" />
       <module name="LeetCodeProjects" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution8" />
+    <configuration name="Solution18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution18" />
       <module name="LeetCodeProjects" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -94,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution8" />
-        <item itemvalue="Application.Solution7" />
-        <item itemvalue="Application.Solution6" />
-        <item itemvalue="Application.Solution3" />
-        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.Solution18" />
+        <item itemvalue="Application.Solution17" />
+        <item itemvalue="Application.Solution16" />
+        <item itemvalue="Application.Solution15" />
+        <item itemvalue="Application.Solution13" />
       </list>
     </recent_temporary>
   </component>
@@ -120,10 +133,22 @@
       <updated>1751398572140</updated>
       <workItem from="1751398573185" duration="2250000" />
       <workItem from="1752357862993" duration="3836000" />
+      <workItem from="1752928817608" duration="9338000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
