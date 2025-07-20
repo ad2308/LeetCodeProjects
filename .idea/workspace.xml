@@ -4,16 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4b0939db-615c-4881-9433-b283792c2064" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/P12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P18.java" afterDir="false" />
+    <list default="true" id="4b0939db-615c-4881-9433-b283792c2064" name="Changes" comment="Up to P18">
+      <change afterPath="$PROJECT_DIR$/src/P19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P21.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/P9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P9.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +46,9 @@
     "Application.Solution16.executor": "Run",
     "Application.Solution17.executor": "Run",
     "Application.Solution18.executor": "Run",
+    "Application.Solution19.executor": "Debug",
+    "Application.Solution20.executor": "Debug",
+    "Application.Solution21.executor": "Run",
     "Application.Solution3.executor": "Run",
     "Application.Solution6.executor": "Run",
     "Application.Solution7.executor": "Run",
@@ -69,28 +67,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Solution18">
-    <configuration name="Solution13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution13" />
-      <module name="LeetCodeProjects" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution15" />
-      <module name="LeetCodeProjects" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution16" />
-      <module name="LeetCodeProjects" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Solution21">
     <configuration name="Solution17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Solution17" />
       <module name="LeetCodeProjects" />
@@ -105,13 +82,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution19" />
+      <module name="LeetCodeProjects" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution20" />
+      <module name="LeetCodeProjects" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution21" />
+      <module name="LeetCodeProjects" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution21" />
+        <item itemvalue="Application.Solution20" />
+        <item itemvalue="Application.Solution19" />
         <item itemvalue="Application.Solution18" />
         <item itemvalue="Application.Solution17" />
-        <item itemvalue="Application.Solution16" />
-        <item itemvalue="Application.Solution15" />
-        <item itemvalue="Application.Solution13" />
       </list>
     </recent_temporary>
   </component>
@@ -133,8 +131,18 @@
       <updated>1751398572140</updated>
       <workItem from="1751398573185" duration="2250000" />
       <workItem from="1752357862993" duration="3836000" />
-      <workItem from="1752928817608" duration="9338000" />
+      <workItem from="1752928817608" duration="13721000" />
+      <workItem from="1753013090893" duration="3948000" />
     </task>
+    <task id="LOCAL-00001" summary="Up to P18">
+      <option name="closed" value="true" />
+      <created>1752944198346</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1752944198346</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -150,5 +158,20 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Up to P18" />
+    <option name="LAST_COMMIT_MESSAGE" value="Up to P18" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/P19.java</url>
+          <line>71</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
