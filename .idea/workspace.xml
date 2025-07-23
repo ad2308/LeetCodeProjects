@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4b0939db-615c-4881-9433-b283792c2064" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/P5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P27.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P28.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,22 +25,21 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "ad2308"
-  }
+  "lastFilter": {}
 }]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/ad2308/LeetCodeProjects",
-    "accountId": "f1fed17a-12b8-416e-8f6c-c6ac55c83225"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ad2308/LeetCodeProjects&quot;,
+    &quot;accountId&quot;: &quot;f1fed17a-12b8-416e-8f6c-c6ac55c83225&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="2zHqugIoKtmUPKWritzs1mZQqxq" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -48,6 +48,7 @@
   "keyToString": {
     "Application.P22.executor": "Run",
     "Application.Solution.executor": "Debug",
+    "Application.Solution27.executor": "Debug",
     "Application.Solution3.executor": "Run",
     "Application.Solution5.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -61,7 +62,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Solution5">
+  <component name="RunManager" selected="Application.Solution27">
     <configuration name="P22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="P22" />
       <module name="LeetCodeProjects" />
@@ -71,6 +72,13 @@
     </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Solution" />
+      <module name="LeetCodeProjects" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution27" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution27" />
       <module name="LeetCodeProjects" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -92,6 +100,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution27" />
         <item itemvalue="Application.Solution5" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Solution3" />
