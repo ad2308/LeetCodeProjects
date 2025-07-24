@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4b0939db-615c-4881-9433-b283792c2064" name="Changes" comment="Up to P26" />
+    <list default="true" id="4b0939db-615c-4881-9433-b283792c2064" name="Changes" comment="Up to P26">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/P28.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P28.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,6 +51,7 @@
     "Application.Solution24.executor": "Run",
     "Application.Solution25.executor": "Run",
     "Application.Solution26.executor": "Run",
+    "Application.Solution28.executor": "Run",
     "Application.Solution3.executor": "Run",
     "Application.Solution6.executor": "Run",
     "Application.Solution7.executor": "Run",
@@ -66,14 +70,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Solution26">
-    <configuration name="Solution21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution21" />
-      <module name="LeetCodeProjects" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Solution28">
     <configuration name="Solution23" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Solution23" />
       <module name="LeetCodeProjects" />
@@ -102,13 +99,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution28" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution28" />
+      <module name="LeetCodeProjects" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution28" />
         <item itemvalue="Application.Solution26" />
         <item itemvalue="Application.Solution25" />
         <item itemvalue="Application.Solution24" />
         <item itemvalue="Application.Solution23" />
-        <item itemvalue="Application.Solution21" />
       </list>
     </recent_temporary>
   </component>
@@ -193,6 +197,11 @@
           <url>file://$PROJECT_DIR$/src/P25.java</url>
           <line>72</line>
           <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/P28.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="29" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
